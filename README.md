@@ -1,5 +1,7 @@
 # marginalia
 
+[![NixCI](https://staging.nix-ci.com/badge/gh:NorfairKing:marginalia)](https://staging.nix-ci.com/gh:NorfairKing:marginalia)
+
 Annotations in the margins of your code that surface during review.
 
 Write `[check]` comments next to code that needs human judgement
